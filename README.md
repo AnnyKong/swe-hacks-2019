@@ -1,3 +1,3 @@
 # swe-hacks-2019
 
-click on index.html and it will show up!
+click https://annykong.github.io/swe-hacks-2019/ and it will show up!
