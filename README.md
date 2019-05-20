@@ -1,6 +1,7 @@
 # swe-hacks-2019
 
 click https://annykong.github.io/swe-hacks-2019/ and it will show up!
+
 Check out more info: https://devpost.com/software/equalhub-3v4u8c
 
 ## Inspiration
