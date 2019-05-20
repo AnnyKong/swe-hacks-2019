@@ -1,6 +1,7 @@
 # swe-hacks-2019
 
 click https://annykong.github.io/swe-hacks-2019/ and it will show up!
+Check out more info: https://devpost.com/software/equalhub-3v4u8c
 
 ## Inspiration
 The Slack communication interface inspired us in how online communication in the workplace ought to function to best serve a company. Workplace equality training is an important aspect in creating a safe work environment for everyone, and our product intends to make this training easier and more accessible.
